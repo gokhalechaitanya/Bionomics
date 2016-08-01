@@ -3,7 +3,7 @@ title: Bionomics
 description: Conference website
 url: http://127.0.0.1:4000/
 #url: http://taylantatli.me/Halve
-logo: logo_01.pdf                                       # Site logo
+logo: halve.png                                     # Site logo
 locale: en_US
 
 # Left Block Images
@@ -30,7 +30,7 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:             here
+email:             conference[at]evolbio[dot]mpg[dot]de
 #google.plus:        username
 twitter:            username
 #facebook:           username
