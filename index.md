@@ -2,8 +2,11 @@
 layout: home
 ---
 # Bio-economics of Mutualism
+### 1-3 November 2017
 
-[Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
+### [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de)
+
+
 
 Some ecosystems fail while others thrive.
 At the heart of thriving ecosystems is often an intricate network of collaborative interactions between the associated species. While considerable literature has been devoted to antagonistic interactions like those characteristic of host-parasite and predator-prey systems, facets of mutualism are still comparatively less understood.
